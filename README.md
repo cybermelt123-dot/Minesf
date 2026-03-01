@@ -1,2 +1,2 @@
 # Minesf
-dndsss
+This is basically a Minecrafty Game
