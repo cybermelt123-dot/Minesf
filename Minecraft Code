@@ -76,7 +76,7 @@
 
 		strong {
 
-			color: white;
+			color: black;
 
 		}
 
@@ -98,7 +98,7 @@
 
 			color: white;
 
-			font-size: 24px;
+			font-size: 28px;
 
 			padding-left: 12px;
 
